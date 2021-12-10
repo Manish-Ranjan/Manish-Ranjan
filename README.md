@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Manish-Ranjan
-- 👀 I’m interested in FullStack Development 
+- 👀 I'm working as Frontend Developer in Medly 
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me manishranjandbg@gmail.com
 
+I have over 2+ years of experience in building Web applications(using ReactJS, Redux, Typescript & Javascript), Authentication/Authorization , Backend applications (using ExpressJS).
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Ranjan&layout=compact" />
