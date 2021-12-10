@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/Manish-Ranjan)
+
 - 👋 Hi, I’m @Manish-Ranjan
 - 👀 I'm working as Frontend Developer in Medly 
 - 🌱 I’m currently learning Next.js
