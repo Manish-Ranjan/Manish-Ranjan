@@ -9,7 +9,7 @@
 I have over 2+ years of experience in building Web ,Android and IOS Application(using ReactJS,React native, Redux, Typescript & Javascript), Authentication/Authorization , Backend applications (using ExpressJS).
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Ranjan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Ranjan&layout=compact&exclude_repo=django-blog" />
 </a>
 
 **Languages and Tools:**  
