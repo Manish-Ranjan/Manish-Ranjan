@@ -26,3 +26,10 @@ I have over 2+ years of experience in building Web ,Android and IOS Application(
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Manish-Ranjan&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
+
+[![Manish GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish-Ranjan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
